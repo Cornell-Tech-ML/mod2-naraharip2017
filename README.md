@@ -43,6 +43,8 @@ The files that will be synced are:
 
 ### Logs
 
+Time per epoch: 0.049s
+
 ```
 Epoch: 10/1000, loss: 36.08883357160892, correct: 26
 Epoch: 20/1000, loss: 35.23507040275149, correct: 26
@@ -168,6 +170,9 @@ Epoch: 1000/1000, loss: 9.373797046255262, correct: 50
 
 
 ### Logs
+
+Time per epoch: 0.047s
+
 ```
 Epoch: 0/2000, loss: 0, correct: 0
 Epoch: 10/2000, loss: 19.48726365957854, correct: 45
@@ -395,6 +400,8 @@ Epoch: 2000/2000, loss: 0.8068345073830323, correct: 50
 
 ### Logs
 
+Time Per Epoch: 0.163s.
+
 ```
 Epoch: 0/2000, loss: 0, correct: 0
 Epoch: 10/2000, loss: 32.0908404666406, correct: 33
@@ -621,6 +628,8 @@ Epoch: 2000/2000, loss: 0.09240087489918829, correct: 50
 
 
 ### Logs
+
+Time Per Epoch: 0.163s.
 
 ```
 Epoch: 0/4000, loss: 0, correct: 0
