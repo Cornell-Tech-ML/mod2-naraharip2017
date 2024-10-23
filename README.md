@@ -36,6 +36,8 @@ The files that will be synced are:
 
 <img src="readmeImages/simpleTrained.png" width="75%">
 
+### Loss Function
+
 <img src="readmeImages/simpleLoss.png" width="100%">
 
 
@@ -159,6 +161,8 @@ Epoch: 1000/1000, loss: 9.373797046255262, correct: 50
 ### Trained Results
 
 <img src="readmeImages/diagTrained.png" width="75%">
+
+### Loss Function
 
 <img src="readmeImages/diagLoss.png" width="100%">
 
@@ -384,6 +388,8 @@ Epoch: 2000/2000, loss: 0.8068345073830323, correct: 50
 
 <img src="readmeImages/splitTrained.png" width="75%">
 
+### Loss Function
+
 <img src="readmeImages/splitLoss.png" width="100%">
 
 
@@ -608,6 +614,8 @@ Epoch: 2000/2000, loss: 0.09240087489918829, correct: 50
 ### Trained Results
 
 <img src="readmeImages/xorTrained.png" width="75%">
+
+### Loss Function
 
 <img src="readmeImages/xorLoss.png" width="100%">
 
