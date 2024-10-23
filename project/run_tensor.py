@@ -31,7 +31,7 @@ class Linear(minitorch.Module):
     def forward(self, inputs):
         inputs = inputs.view(inputs.shape[0], inputs.shape[1], 1)
         inputs_weights = inputs * self.weights.value
-        inputs_weights_reduced = inputs_weights.mean(1)
+        inputs_weights_reduced = inputs_weights.sum(1)
         inputs_weights_bias = inputs_weights_reduced + self.bias.value
         output = inputs_weights_bias.view(inputs_weights_bias.shape[0],inputs_weights_bias.shape[2])
         return output
